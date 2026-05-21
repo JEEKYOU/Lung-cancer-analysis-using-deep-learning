@@ -92,3 +92,10 @@ The project uses a **Convolutional Neural Network (CNN)** for feature extraction
 4. Max Pooling
 5. Fully Connected Layers
 6. Softmax Classification
+
+
+# 🌐 Live Demo
+
+🚀 Try the live web application here:
+
+🔗 [Open Web App](https://ct-scan-analyzer--vedantjaiswal81.replit.app/)

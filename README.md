@@ -8,7 +8,7 @@
 </p>
 
 
-### AI-powered lung cancer detection and classification using CT scan images and Deep Learning.
+### AI-powered lung cancer detection and classification using Deep Learning.
 
 
 # 🫁 Lung Cancer Analysis Using Deep Learning

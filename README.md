@@ -68,13 +68,6 @@ The project uses a **CT Scan Image Dataset** for lung cancer analysis and classi
 - 📊 Train-Test Split
 - 🏷️ Label encoding
 
-## 📈 Data Augmentation Techniques
-
-- Rotation
-- Flipping
-- Zooming
-- Rescaling
-- Brightness adjustment
 
 ---
 

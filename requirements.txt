@@ -1,7 +1,4 @@
-# ==========================================
-# Lung Cancer Analysis Using Deep Learning
-# Requirements File
-# ==========================================
+#Librarys used
 
 # Core Libraries
 numpy==1.26.4

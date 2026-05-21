@@ -13,13 +13,13 @@
 
 # 🫁 Lung Cancer Analysis Using Deep Learning
 
-## 📌 Project Description
+## Project Description
 
 Lung cancer is one of the leading causes of death worldwide. Early detection can significantly improve survival rates and treatment outcomes. This project focuses on developing an **AI-powered Lung Cancer Detection System** using **Deep Learning** and **CT Scan image analysis**.
 
 The system utilizes **Convolutional Neural Networks (CNNs)** to analyze CT scan images and classify lung cancer types with high accuracy. By leveraging medical image processing and artificial intelligence, this project aims to assist healthcare professionals in faster and more accurate diagnosis.
 
-### 🎯 Objectives
+### Objectives
 - Detect lung cancer from CT scan images
 - Classify different lung cancer types
 - Improve early diagnosis using AI
@@ -28,7 +28,7 @@ The system utilizes **Convolutional Neural Networks (CNNs)** to analyze CT scan 
 
 ---
 
-# ✨ Features
+# Features
 
 ✅ CT Scan Image Upload  
 ✅ Lung Cancer Prediction  
@@ -41,7 +41,7 @@ The system utilizes **Convolutional Neural Networks (CNNs)** to analyze CT scan 
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -55,7 +55,7 @@ The system utilizes **Convolutional Neural Networks (CNNs)** to analyze CT scan 
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The project uses a **CT Scan Image Dataset** for lung cancer analysis and classification.
 
@@ -78,7 +78,7 @@ The project uses a **CT Scan Image Dataset** for lung cancer analysis and classi
 
 ---
 
-# 🧠 Deep Learning Model
+# Deep Learning Model
 
 ## CNN Architecture
 
@@ -94,8 +94,8 @@ The project uses a **Convolutional Neural Network (CNN)** for feature extraction
 6. Softmax Classification
 
 
-# 🌐 Live Demo
+# Live Demo
 
-🚀 Try the live web application here:
+ Try the live web application here:
 
-🔗 [Open Web App](https://ct-scan-analyzer--vedantjaiswal81.replit.app/)
+🔗 [LungAnalyzer](https://ct-scan-analyzer--vedantjaiswal81.replit.app/)
